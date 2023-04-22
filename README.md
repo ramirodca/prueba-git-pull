@@ -1,2 +1,2 @@
-# prueba-git-pull
-repositorio de ejemplo de git pull
+# actualiza git pull
+repositorio de actualizacion de git pull
